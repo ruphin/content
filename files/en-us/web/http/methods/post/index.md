@@ -31,7 +31,7 @@ When the `POST` request is sent via a method other than an HTML form — like vi
   <tbody>
     <tr>
       <th scope="row">Request has body</th>
-      <td>Yes</td>
+      <td>May</td>
     </tr>
     <tr>
       <th scope="row">Successful response has body</th>
